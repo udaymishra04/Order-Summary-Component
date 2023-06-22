@@ -46,5 +46,5 @@ This project felt much easier because of the learning I had from my previous pro
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/udaymishra04)
-- Twitter - [@yourusername](https://www.twitter.com/uudaymishraa)
+- Frontend Mentor - [@udaymishra04](https://www.frontendmentor.io/profile/udaymishra04)
+- Twitter - [@uudaymishraa](https://www.twitter.com/uudaymishraa)
